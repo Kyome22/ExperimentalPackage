@@ -2,3 +2,5 @@
 // https://docs.swift.org/swift-book
 
 import AsyncAlgorithms
+
+struct Experimental {}
